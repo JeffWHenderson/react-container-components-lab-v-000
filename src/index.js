@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom';
 import LatestMovieReviewsContainer from './components/LatestMovieReviewsContainer';
 import SearchableMovieReviewsContainer from './components/SearchableMovieReviewsContainer';
 import MovieReviews from '../index'
+
 ReactDOM.render(
   <div className="app">
     <SearchableMovieReviewsContainer />
