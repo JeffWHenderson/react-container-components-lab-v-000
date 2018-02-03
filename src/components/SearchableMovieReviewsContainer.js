@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import MovieReviews from './MovieReviews';
 
-const NYT_API_KEY = 'a07eda94110445d7a1f9bc2690903b97';
+const NYT_API_KEY = 'f98593a095b44546bf4073744b540da0';
 
 class SearchableMovieReviewsContainer extends Component {
 
